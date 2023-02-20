@@ -14,4 +14,4 @@ https://www.notion.so/CTHASOPL-d27e9729de594da59cbcc5633ba34131
 | Power Supply   | Power Ratings, Efficiency Rating, Cautions and Recommendations |
 | BIOS   | Definition, Instructions and Steps to Update the BIOS |
 | Operating System   | History, Components and Elements |
-
+| Computer Networks   | Overview, Types, Classifications, Uses and Disadvantages |
